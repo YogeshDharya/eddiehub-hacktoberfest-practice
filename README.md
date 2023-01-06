@@ -1204,6 +1204,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Yashesvinee V](https://github.com/Yashesvinee)
   - [Yaswanth Modepalli](https://github.com/Yaswanth14)
   - [Yoel Morad](https://github.com/yoel0)
+  - [Yogesh Dharya](https://github.com/YogeshDharya)
   - [Yogesh Summan](https://github.com/yogeshsumman)
   - [Yuval Sharma](https://github.com/Yuval207)
   - [Yuvaraj Singh](https://github.com/YuvarajSingh-0)
